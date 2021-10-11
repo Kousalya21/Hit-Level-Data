@@ -4,7 +4,7 @@
 ### Installation
 ###### >Install Python(latest version) & boto3
 ###### >Setup an AWS account with IAM, S3 bucket & AWS Lambda
-###### >git clone <the repo>
+###### >git clone https://github.com/Kousalya21/Hit-Level-Data.git
 ###### >cd HitLevelData
 ###### >pip install -r requirements.txt
 
