@@ -86,7 +86,8 @@ class KeywordRevenueFinder:
 
             #summary of the data
             print(df.describe())
-
+            
+            #comparing between Search Keyword & Revenue
             print(pd.crosstab(df["Search Keyword"], df["Revenue"]))
             return response
         except Exception as error:
