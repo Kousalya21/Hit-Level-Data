@@ -20,3 +20,4 @@ hit_time_gmt	date_time	user_agent	ip	event_list	geo_city	geo_region	geo_country	
 1254035062	9/27/2009 7:04	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10	67.98.123.1	11	Salem	OR	US	Order Checkout Details	https://www.esshopzilla.com/checkout/		http://www.esshopzilla.com/cart/
 1254035161	9/27/2009 7:06	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10	67.98.123.1		Salem	OR	US	Order Confirmation	https://www.esshopzilla.com/checkout/?a=confirm		https://www.esshopzilla.com/checkout/
 1254035260	9/27/2009 7:07	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10	67.98.123.1	1	Salem	OR	US	Order Complete	https://www.esshopzilla.com/checkout/?a=complete	Electronics;Ipod - Touch - 32GB;1;290;	https://www.esshopzilla.com/checkout/?a=confirm
+
