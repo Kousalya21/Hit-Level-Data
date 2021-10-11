@@ -11,7 +11,7 @@
 ### Steps
 ###### >Setup the bucket name & access keys under .env file
 ###### >Inside the virtual env, run the script.py
-###### >Final TAB file would be created inside the respected S3 bucket.
+###### >Final TAB file would be generated in the respected S3 bucket.
 
 
 
